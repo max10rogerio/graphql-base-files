@@ -7,8 +7,24 @@ or
 `npm install graphql-base-files --save-dev`
 
 
-Run in your terminal `graphql-base-files cf posts`
+Run in your terminal `graphql-base-files cf posts`  
+This command create files and folders:  
+```
+Posts/
+  Posts.gql
+  Posts.js
+  PostsMutations.gql
+  PostsQueries.gql
+  PostsSubscriptions.gql
+  PostsInputs.gql
+  mutations/
+  queries/
+  subscriptions/
+```
 
+
+
+> ## **CLI**
 
 | Arg  | Alias  | Description  | Default   |
 |---|---|---|---|

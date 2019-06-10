@@ -2,7 +2,18 @@
   "name": "graphql-base-files",
   "version": "0.0.1",
   "description": "Create a basic structure for graqhl",
+  "homepage": "https://github.com/max10rogerio/graphql-base-files#readme",
   "main": "index.js",
+  "keywords": ["graphql", "patterns", "cli"],
+  "author": {
+    "name": "Max Rogério",
+    "email": "max10rogerio@hotmail.com",
+    "url": "https://github.com/max10rogerio"
+  },
+  "bugs": {
+    "url": "https://github.com/max10rogerio/graphql-base-files/issues"
+  },
+  "license": "ISC",
   "bin": {
     "graphql-base-files": "index.js"
   },
@@ -10,9 +21,6 @@
     "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "commander": "^2.20.0",
     "fs-extra": "^8.0.1"
