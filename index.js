@@ -1,3 +1,3 @@
-const utils = require('./src')
+const cli = require('./src/cli')
 
-console.log(utils)
+cli()
