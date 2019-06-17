@@ -37,3 +37,9 @@ Posts/
 | --version | -V | Output usage information |
 | --help | -h | Output the version number |
 
+
+> **TODO**
+- [ ] Add functionality for create an function to merge schemas and resolvers.
+- [ ] Add CRUD example
+- [ ] Add Tests
+- [ ] Automate version number

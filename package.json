@@ -1,6 +1,6 @@
 {
   "name": "graphql-base-files",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create a basic structure for graqhl",
   "homepage": "https://github.com/max10rogerio/graphql-base-files#readme",
   "main": "index.js",
